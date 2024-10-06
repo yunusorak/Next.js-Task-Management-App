@@ -2,7 +2,7 @@
 
 A comprehensive task management application built with modern web technologies.
 
-![Task Management App Overview]![boards](https://github.com/user-attachments/assets/978b2e34-9002-494f-8326-930abd595ba4)
+![Task Management App Overview]!(https://github.com/user-attachments/assets/978b2e34-9002-494f-8326-930abd595ba4)
 
 
 ## Technologies Used
@@ -30,7 +30,7 @@ A comprehensive task management application built with modern web technologies.
 - Drag and drop functionality for tasks and lists
 - Localization support for English and Turkish
 
-![Task Details]![configuration](https://github.com/user-attachments/assets/bd873eb0-ad4b-404a-a097-c70ca2d19294)
+![Task Details]!(https://github.com/user-attachments/assets/bd873eb0-ad4b-404a-a097-c70ca2d19294)
 
 
 ## Known Issues and Future Improvements
