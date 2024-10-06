@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/task-management-app.git
+git clone https://github.com/yunusorak/Next.js-Task-Management-App.git
 
 # Navigate to the project directory
 cd task-management-app
